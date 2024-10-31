@@ -1,6 +1,5 @@
 <script setup>
-import { defineProps } from "vue";
-defineProps({
+const props = defineProps({
   item: {
     type: Object,
     required: true,
