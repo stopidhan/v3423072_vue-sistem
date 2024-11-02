@@ -5,10 +5,7 @@ import { RouterLink } from "vue-router";
   <section class="" id="aboutMission">
     <div class="py-16 px-20">
       <svg viewBox="0 0 500 10" xmlns="http://www.w3.org/2000/svg">
-        <!-- Block 2: yellow (3/5 width) -->
         <rect x="100" y="0" width="300" height="10" fill="#FFD050" />
-
-        <!-- Block 3: blue (1/5 width) -->
         <rect x="400" y="0" width="100" height="10" fill="#075EFD" />
       </svg>
       <div

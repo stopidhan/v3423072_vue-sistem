@@ -12,7 +12,6 @@
             alt=""
           />
         </div>
-
         <!-- Content Container -->
         <div
           class="w-full md:w-3/5 p-6 md:p-8 flex flex-col justify-center space-y-4"
@@ -45,7 +44,6 @@
             alt=""
           />
         </div>
-
         <!-- Content Container -->
         <div
           class="w-full md:w-3/5 p-6 md:p-8 flex flex-col justify-center space-y-4"
@@ -78,7 +76,6 @@
             alt=""
           />
         </div>
-
         <!-- Content Container -->
         <div
           class="w-full md:w-3/5 p-6 md:p-8 flex flex-col justify-center space-y-4"
@@ -111,7 +108,6 @@
             alt=""
           />
         </div>
-
         <!-- Content Container -->
         <div
           class="w-full md:w-3/5 p-6 md:p-8 flex flex-col justify-center space-y-4"
@@ -144,7 +140,6 @@
             alt=""
           />
         </div>
-
         <!-- Content Container -->
         <div
           class="w-full md:w-3/5 p-6 md:p-8 flex flex-col justify-center space-y-4"

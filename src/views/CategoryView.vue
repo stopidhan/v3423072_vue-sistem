@@ -31,7 +31,7 @@ import Footer from "@/components/Footer.vue";
       </div>
     </div>
   </section>
-  <section class="p-20" id="sidebar">
+  <section class="p-20">
     <div class="grid grid-cols-4">
       <div class="col-span-3 flex flex-col space-y-6">
         <div class="flex flex-row space-x-6">

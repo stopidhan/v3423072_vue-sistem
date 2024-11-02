@@ -6,6 +6,7 @@ const props = defineProps({
   },
 });
 </script>
+
 <template>
   <a href="#" class="text-start">
     <div class="py-8 px-8 hover:bg-[#FBF6EA] pr-32">
