@@ -39,7 +39,7 @@ const items = ref([
       <div
         class="col-span-1 col-start-5 row-start-1 text-end flex items-center justify-end"
       >
-        <a href="" class="text-[#FFD050]">View All</a>
+        <RouterLink to="#" class="text-[#FFD050]">View All</RouterLink>
       </div>
     </div>
     <div class="grid grid-cols-5 grid-rows-4 gap-10 px-20 pb-32">
@@ -52,8 +52,11 @@ const items = ref([
           class="w-[730px] h-[350px] object-cover object-center mb-8"
         />
         <p class="mb-6 text-sm font-normal text-black">
-          By <a href="#"><span class="text-[#FFD050]">James West</span></a> |
-          May 23, 2022
+          By
+          <RouterLink to="#"
+            ><span class="text-[#FFD050]">James West</span></RouterLink
+          >
+          | May 23, 2022
         </p>
         <h2 style="font-size: 28px" class="font-bold mb-5">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do

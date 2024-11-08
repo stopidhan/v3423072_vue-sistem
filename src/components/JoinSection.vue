@@ -1,3 +1,7 @@
+<script setup>
+import { RouterLink } from "vue-router";
+</script>
+
 <template>
   <section class="" id="Join">
     <div
@@ -10,12 +14,12 @@
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
         tempor incididunt.
       </p>
-      <a
+      <RouterLink
         href="#"
         class="mb-6 inline-flex justify-center items-center py-3 px-10 text-base font-medium text-center text-white bg-[#075EFD] hover:bg-[#EDC14A] focus:ring-4 focus:ring-blue-300 dark:focus:ring-blue-900"
       >
         Join Now
-      </a>
+      </RouterLink>
     </div>
   </section>
 </template>

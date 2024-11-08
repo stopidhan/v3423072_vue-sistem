@@ -11,8 +11,11 @@
         Step-by-step guide to choosing great font pairs
       </h1>
       <p class="mb-4 font-normal">
-        By <a href="#"><span class="text-[#075EFD]">James West</span></a> | May
-        23, 2022
+        By
+        <RouterLink to="#"
+          ><span class="text-[#075EFD]">James West</span></RouterLink
+        >
+        | May 23, 2022
       </p>
       <p class="mb-10 font-normal">
         Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
@@ -20,13 +23,11 @@
         proident.
       </p>
       <div class="flex flex-col space-y-4 sm:flex-row">
-        <RouterLink to="#">
-          <a
-            href=""
-            class="inline-flex justify-center items-center py-3 px-10 text-base font-medium text-center text-white bg-[#075EFD] hover:bg-[#EDC14A] focus:ring-4 focus:ring-blue-300 dark:focus:ring-blue-900"
-          >
-            Read More >
-          </a>
+        <RouterLink
+          to="#"
+          class="inline-flex justify-center items-center py-3 px-10 text-base font-medium text-center text-white bg-[#075EFD] hover:bg-[#EDC14A] focus:ring-4 focus:ring-blue-300 dark:focus:ring-blue-900"
+        >
+          Read More >
         </RouterLink>
       </div>
     </div>

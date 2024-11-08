@@ -29,16 +29,16 @@ import LinkedinIcon from "@/components/icons/LinkedinIcon.vue";
             Content Writer @Company
           </p>
           <div class="flex flex-row space-x-4 mb-4">
-            <a href="" id="Facebook">
+            <a href="facebook.com" id="Facebook">
               <FacebookIcon />
             </a>
-            <a href="" id="Twitter">
+            <a href="x.com" id="Twitter">
               <TwitterIcon />
             </a>
-            <a href="" id="Instagram">
+            <a href="instagram.com" id="Instagram">
               <InstagramIcon />
             </a>
-            <a href="" id="Linkedin">
+            <a href="linkedin.com" id="Linkedin">
               <LinkedinIcon />
             </a>
           </div>
@@ -61,16 +61,16 @@ import LinkedinIcon from "@/components/icons/LinkedinIcon.vue";
             Content Writer @Company
           </p>
           <div class="flex flex-row space-x-4 mb-4">
-            <a href="" id="Facebook">
+            <a href="facebook.com" id="Facebook">
               <FacebookIcon />
             </a>
-            <a href="" id="Twitter">
+            <a href="x.com" id="Twitter">
               <TwitterIcon />
             </a>
-            <a href="" id="Instagram">
+            <a href="instagram.com" id="Instagram">
               <InstagramIcon />
             </a>
-            <a href="" id="Linkedin">
+            <a href="linkedin.com" id="Linkedin">
               <LinkedinIcon />
             </a>
           </div>
@@ -93,16 +93,16 @@ import LinkedinIcon from "@/components/icons/LinkedinIcon.vue";
             Content Writer @Company
           </p>
           <div class="flex flex-row space-x-4 mb-4">
-            <a href="" id="Facebook">
+            <a href="facebook.com" id="Facebook">
               <FacebookIcon />
             </a>
-            <a href="" id="Twitter">
+            <a href="x.com" id="Twitter">
               <TwitterIcon />
             </a>
-            <a href="" id="Instagram">
+            <a href="instagram.com" id="Instagram">
               <InstagramIcon />
             </a>
-            <a href="" id="Linkedin">
+            <a href="linkedin.com" id="Linkedin">
               <LinkedinIcon />
             </a>
           </div>
@@ -125,16 +125,16 @@ import LinkedinIcon from "@/components/icons/LinkedinIcon.vue";
             Content Writer @Company
           </p>
           <div class="flex flex-row space-x-4 mb-4">
-            <a href="" id="Facebook">
+            <a href="facebook.com" id="Facebook">
               <FacebookIcon />
             </a>
-            <a href="" id="Twitter">
+            <a href="x.com" id="Twitter">
               <TwitterIcon />
             </a>
-            <a href="" id="Instagram">
+            <a href="instagram.com" id="Instagram">
               <InstagramIcon />
             </a>
-            <a href="" id="Linkedin">
+            <a href="linkedin.com" id="Linkedin">
               <LinkedinIcon />
             </a>
           </div>
@@ -157,16 +157,16 @@ import LinkedinIcon from "@/components/icons/LinkedinIcon.vue";
             Content Writer @Company
           </p>
           <div class="flex flex-row space-x-4 mb-4">
-            <a href="" id="Facebook">
+            <a href="facebook.com" id="Facebook">
               <FacebookIcon />
             </a>
-            <a href="" id="Twitter">
+            <a href="x.com" id="Twitter">
               <TwitterIcon />
             </a>
-            <a href="" id="Instagram">
+            <a href="instagram.com" id="Instagram">
               <InstagramIcon />
             </a>
-            <a href="" id="Linkedin">
+            <a href="linkedin.com" id="Linkedin">
               <LinkedinIcon />
             </a>
           </div>
@@ -189,16 +189,16 @@ import LinkedinIcon from "@/components/icons/LinkedinIcon.vue";
             Content Writer @Company
           </p>
           <div class="flex flex-row space-x-4 mb-4">
-            <a href="" id="Facebook">
+            <a href="facebook.com" id="Facebook">
               <FacebookIcon />
             </a>
-            <a href="" id="Twitter">
+            <a href="x.com" id="Twitter">
               <TwitterIcon />
             </a>
-            <a href="" id="Instagram">
+            <a href="instagram.com" id="Instagram">
               <InstagramIcon />
             </a>
-            <a href="" id="Linkedin">
+            <a href="linkedin.com" id="Linkedin">
               <LinkedinIcon />
             </a>
           </div>
@@ -221,16 +221,16 @@ import LinkedinIcon from "@/components/icons/LinkedinIcon.vue";
             Content Writer @Company
           </p>
           <div class="flex flex-row space-x-4 mb-4">
-            <a href="" id="Facebook">
+            <a href="facebook.com" id="Facebook">
               <FacebookIcon />
             </a>
-            <a href="" id="Twitter">
+            <a href="x.com" id="Twitter">
               <TwitterIcon />
             </a>
-            <a href="" id="Instagram">
+            <a href="instagram.com" id="Instagram">
               <InstagramIcon />
             </a>
-            <a href="" id="Linkedin">
+            <a href="linkedin.com" id="Linkedin">
               <LinkedinIcon />
             </a>
           </div>
@@ -253,16 +253,16 @@ import LinkedinIcon from "@/components/icons/LinkedinIcon.vue";
             Content Writer @Company
           </p>
           <div class="flex flex-row space-x-4 mb-4">
-            <a href="" id="Facebook">
+            <a href="facebook.com" id="Facebook">
               <FacebookIcon />
             </a>
-            <a href="" id="Twitter">
+            <a href="x.com" id="Twitter">
               <TwitterIcon />
             </a>
-            <a href="" id="Instagram">
+            <a href="instagram.com" id="Instagram">
               <InstagramIcon />
             </a>
-            <a href="" id="Linkedin">
+            <a href="linkedin.com" id="Linkedin">
               <LinkedinIcon />
             </a>
           </div>

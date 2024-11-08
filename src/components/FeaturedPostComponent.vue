@@ -8,7 +8,7 @@ const props = defineProps({
 </script>
 
 <template>
-  <a href="#" class="text-start">
+  <RouterLink to="#" class="text-start">
     <div class="py-8 px-8 hover:bg-[#FBF6EA] pr-32">
       <p class="mb-2 text-sm font-normal text-black">
         By <span class="text-[#FFD050]">{{ item.author }}</span> |
@@ -18,5 +18,5 @@ const props = defineProps({
         {{ item.title }}
       </h2>
     </div>
-  </a>
+  </RouterLink>
 </template>

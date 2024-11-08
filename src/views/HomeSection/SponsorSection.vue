@@ -9,21 +9,21 @@
             >Featured in</span
           >
         </p>
-        <a href="#" class="flex justify-center items-center" id="logo1">
+        <RouterLink to="#" class="flex justify-center items-center" id="logo1">
           <img src="../../components/icons/Logo 1.png" alt="" />
-        </a>
-        <a href="#" class="flex justify-center items-center" id="logo2">
+        </RouterLink>
+        <RouterLink to="#" class="flex justify-center items-center" id="logo2">
           <img src="../../components/icons/Logo 2.png" alt="" />
-        </a>
-        <a href="#" class="flex justify-center items-center" id="logo3">
+        </RouterLink>
+        <RouterLink to="#" class="flex justify-center items-center" id="logo3">
           <img src="../../components/icons/Logo 3.png" alt="" />
-        </a>
-        <a href="#" class="flex justify-center items-center" id="logo4">
+        </RouterLink>
+        <RouterLink to="#" class="flex justify-center items-center" id="logo4">
           <img src="../../components/icons/Logo 4.png" alt="" />
-        </a>
-        <a href="#" class="flex justify-center items-center" id="logo5">
+        </RouterLink>
+        <RouterLink to="#" class="flex justify-center items-center" id="logo5">
           <img src="../../components/icons/Logo 5.png" alt="" />
-        </a>
+        </RouterLink>
       </div>
     </div>
   </section>

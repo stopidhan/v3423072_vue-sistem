@@ -141,7 +141,7 @@ import Footer from "@/components/Footer.vue";
       </div>
       <div class="col-span-1">
         <h1 class="text-4xl tracking-tighter font-semibold mb-4">Categories</h1>
-        <a href="#">
+        <RouterLink to="#">
           <div
             class="flex flex-row border border-black-500 p-6 group hover:bg-[#075EFD] space-x-6 items-center mb-4"
           >
@@ -200,7 +200,7 @@ import Footer from "@/components/Footer.vue";
               Startup
             </h1>
           </div>
-        </a>
+        </RouterLink>
         <RouterLink to="/category"
           ><div
             class="flex flex-row border border-black-500 p-6 group hover:bg-[#075EFD] space-x-6 items-center mb-4"
@@ -230,7 +230,7 @@ import Footer from "@/components/Footer.vue";
             </h1>
           </div></RouterLink
         >
-        <a href="#">
+        <router-link to="/category">
           <div
             class="flex flex-row border border-black-500 p-6 group hover:bg-[#075EFD] space-x-6 items-center mb-4"
           >
@@ -273,8 +273,8 @@ import Footer from "@/components/Footer.vue";
               Economy
             </h1>
           </div>
-        </a>
-        <a href="#">
+        </router-link>
+        <router-link to="/category">
           <div
             class="flex flex-row border border-black-500 p-6 group hover:bg-[#075EFD] space-x-6 items-center mb-10"
           >
@@ -313,61 +313,61 @@ import Footer from "@/components/Footer.vue";
               Technology
             </h1>
           </div>
-        </a>
+        </router-link>
         <h1 class="text-4xl tracking-tighter font-semibold mb-4">All Tags</h1>
         <div
           class="flex flex-row space-x-5 justify-center items-center text-center mb-4"
         >
-          <a
+          <RouterLink
             style="border-width: 3px"
             href="#"
             class="w-1/2 rounded-full p-2 font-bold text-gray-500 hover:text-black hover:border-black"
           >
             <p>Business</p>
-          </a>
-          <a
+          </RouterLink>
+          <RouterLink
             style="border-width: 3px"
             href="#"
             class="w-1/2 rounded-full p-2 font-bold text-gray-500 hover:text-black hover:border-black"
           >
             <p>Business</p>
-          </a>
+          </RouterLink>
         </div>
         <div
           class="flex flex-row space-x-5 justify-center items-center text-center mb-4"
         >
-          <a
+          <RouterLink
             style="border-width: 3px"
             href="#"
             class="w-2/6 rounded-full p-2 font-bold text-gray-500 hover:text-black hover:border-black"
           >
             <p>Screen</p>
-          </a>
-          <a
+          </RouterLink>
+          <RouterLink
             style="border-width: 3px"
             href="#"
             class="w-4/6 rounded-full p-2 font-bold text-gray-500 hover:text-black hover:border-black"
           >
             <p>Technology</p>
-          </a>
+          </RouterLink>
         </div>
         <div
           class="flex flex-row space-x-5 justify-center items-center text-center mb-4"
         >
-          <a
+          <RouterLink
             style="border-width: 3px"
             href="#"
             class="w-4/6 rounded-full p-2 font-bold text-gray-500 hover:text-black hover:border-black"
           >
             <p>Marketing</p>
-          </a>
-          <a
+          </RouterLink>
+          <RouterLink
             style="border-width: 3px"
             href="#"
             class="w-2/6 rounded-full p-2 font-bold text-gray-500 hover:text-black hover:border-black"
           >
             <p>Life</p>
-          </a>
+          </RouterLink>
         </div>
       </div>
     </div>

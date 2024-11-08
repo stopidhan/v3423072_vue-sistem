@@ -37,7 +37,7 @@
             </p>
           </div></RouterLink
         >
-        <a href="#">
+        <RouterLink to="#">
           <div
             class="border border-black-500 py-6 px-6 group hover:bg-[#075EFD]"
           >
@@ -99,8 +99,8 @@
               Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
             </p>
           </div>
-        </a>
-        <a href="#">
+        </RouterLink>
+        <RouterLink to="#">
           <div
             class="border border-black-500 py-6 px-6 group hover:bg-[#075EFD]"
           >
@@ -146,8 +146,8 @@
               Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
             </p>
           </div>
-        </a>
-        <a href="#">
+        </RouterLink>
+        <RouterLink to="#">
           <div
             class="border border-black-500 py-6 px-6 group hover:bg-[#075EFD]"
           >
@@ -189,7 +189,7 @@
               Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
             </p>
           </div>
-        </a>
+        </RouterLink>
       </div>
     </div>
   </section>
