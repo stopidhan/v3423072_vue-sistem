@@ -18,14 +18,12 @@ import Footer from "@/components/Footer.vue";
         <div>
           <ol class="inline-flex space-x-2">
             <RouterLink to="blog">
-              <a href="#">
-                <li class="text-black hover:text-gray-400">BLOG</li>
-              </a>
+              <li class="text-black hover:text-gray-400">BLOG</li>
             </RouterLink>
             <li>></li>
-            <a href="">
+            <RouterLink to="#">
               <li class="">BUSINESS</li>
-            </a>
+            </RouterLink>
           </ol>
         </div>
       </div>

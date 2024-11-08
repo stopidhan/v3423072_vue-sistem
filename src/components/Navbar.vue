@@ -8,9 +8,12 @@ import IconSistem from "./icons/IconSistem.vue";
     <div
       class="max-w-screen-2xl flex flex-wrap items-center justify-between mx-auto py-4 p-12"
     >
-      <a href="/" class="flex items-center space-x-3 rtl:space-x-reverse">
+      <RouterLink
+        to="/"
+        class="flex items-center space-x-3 rtl:space-x-reverse"
+      >
         <IconSistem></IconSistem>
-      </a>
+      </RouterLink>
       <div class="flex order-2">
         <RouterLink
           to="/contact"

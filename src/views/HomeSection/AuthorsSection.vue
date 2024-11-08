@@ -30,18 +30,18 @@ import LinkedinIcon from "@/components/icons/LinkedinIcon.vue";
             Content Writer @Company
           </p>
           <div class="flex flex-row space-x-4 mb-4">
-            <a href="facebook.com" id="Facebook">
+            <RouterLink to="#" id="Facebook">
               <FacebookIcon />
-            </a>
-            <a href="x.com" id="Twitter">
+            </RouterLink>
+            <RouterLink to="#" id="Twitter">
               <TwitterIcon />
-            </a>
-            <a href="instagram.com" id="Instagram">
+            </RouterLink>
+            <RouterLink to="#" id="Instagram">
               <InstagramIcon />
-            </a>
-            <a href="linkedin.com" id="Linkedin">
+            </RouterLink>
+            <RouterLink to="#" id="Linkedin">
               <LinkedinIcon />
-            </a>
+            </RouterLink>
           </div>
         </div>
         <div
@@ -62,18 +62,18 @@ import LinkedinIcon from "@/components/icons/LinkedinIcon.vue";
             Content Writer @Company
           </p>
           <div class="flex flex-row space-x-4 mb-4">
-            <a href="facebook.com" id="Facebook">
+            <RouterLink to="#" id="Facebook">
               <FacebookIcon />
-            </a>
-            <a href="x.com" id="Twitter">
+            </RouterLink>
+            <RouterLink to="#" id="Twitter">
               <TwitterIcon />
-            </a>
-            <a href="instagram.com" id="Instagram">
+            </RouterLink>
+            <RouterLink to="#" id="Instagram">
               <InstagramIcon />
-            </a>
-            <a href="linkedin.com" id="Linkedin">
+            </RouterLink>
+            <RouterLink to="#" id="Linkedin">
               <LinkedinIcon />
-            </a>
+            </RouterLink>
           </div>
         </div>
         <div
@@ -94,18 +94,18 @@ import LinkedinIcon from "@/components/icons/LinkedinIcon.vue";
             Content Writer @Company
           </p>
           <div class="flex flex-row space-x-4 mb-4">
-            <a href="facebook.com" id="Facebook">
+            <RouterLink to="#" id="Facebook">
               <FacebookIcon />
-            </a>
-            <a href="x.com" id="Twitter">
+            </RouterLink>
+            <RouterLink to="#" id="Twitter">
               <TwitterIcon />
-            </a>
-            <a href="instagram.com" id="Instagram">
+            </RouterLink>
+            <RouterLink to="#" id="Instagram">
               <InstagramIcon />
-            </a>
-            <a href="linkedin.com" id="Linkedin">
+            </RouterLink>
+            <RouterLink to="#" id="Linkedin">
               <LinkedinIcon />
-            </a>
+            </RouterLink>
           </div>
         </div>
         <div
@@ -126,18 +126,18 @@ import LinkedinIcon from "@/components/icons/LinkedinIcon.vue";
             Content Writer @Company
           </p>
           <div class="flex flex-row space-x-4 mb-4">
-            <a href="facebook.com" id="Facebook">
+            <RouterLink to="#" id="Facebook">
               <FacebookIcon />
-            </a>
-            <a href="x.com" id="Twitter">
+            </RouterLink>
+            <RouterLink to="#" id="Twitter">
               <TwitterIcon />
-            </a>
-            <a href="instagram.com" id="Instagram">
+            </RouterLink>
+            <RouterLink to="#" id="Instagram">
               <InstagramIcon />
-            </a>
-            <a href="linkedin.com" id="Linkedin">
+            </RouterLink>
+            <RouterLink to="#" id="Linkedin">
               <LinkedinIcon />
-            </a>
+            </RouterLink>
           </div>
         </div>
       </div>

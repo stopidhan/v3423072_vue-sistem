@@ -11,8 +11,11 @@
           Step-by-step guide to choosing great font pairs
         </h1>
         <p class="mb-4 font-normal">
-          By <a href=""><span class="text-[#075EFD]">James West</span></a> | May
-          23, 2022
+          By
+          <RouterLink to="#"
+            ><span class="text-[#075EFD]">James West</span></RouterLink
+          >
+          | May 23, 2022
         </p>
         <p class="mb-10 font-normal">
           Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
