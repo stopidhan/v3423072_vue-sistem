@@ -86,19 +86,19 @@ import LinkedinIcon from "./icons/LinkedinIcon.vue";
           <p class="text-sm text-white">Hello@finsweet.com 020 7993 2905</p>
         </div>
         <div class="flex mt-4 sm:justify-center sm:mt-0">
-          <RouterLink to="#" class="text-gray-400 hover:text-white">
+          <RouterLink to="" class="text-gray-400 hover:text-white">
             <FacebookIcon />
             <span class="sr-only">Facebook page</span>
           </RouterLink>
-          <RouterLink to="#" class="text-gray-400 hover:text-white ms-5">
+          <RouterLink to="" class="text-gray-400 hover:text-white ms-5">
             <TwitterIcon />
             <span class="sr-only">Twitter page</span>
           </RouterLink>
-          <RouterLink to="#" class="text-gray-400 hover:text-white ms-5">
+          <RouterLink to="" class="text-gray-400 hover:text-white ms-5">
             <InstagramIcon />
             <span class="sr-only">Instagram account</span>
           </RouterLink>
-          <RouterLink to="#" class="text-gray-400 hover:text-white ms-5">
+          <RouterLink to="" class="text-gray-400 hover:text-white ms-5">
             <LinkedinIcon />
             <span class="sr-only">Linkedin account</span>
           </RouterLink>

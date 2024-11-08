@@ -39,7 +39,7 @@ const items = ref([
       <div
         class="col-span-1 col-start-5 row-start-1 text-end flex items-center justify-end"
       >
-        <RouterLink to="#" class="text-[#FFD050]">View All</RouterLink>
+        <RouterLink to="" class="text-[#FFD050]">View All</RouterLink>
       </div>
     </div>
     <div class="grid grid-cols-5 grid-rows-4 gap-10 px-20 pb-32">
@@ -53,7 +53,7 @@ const items = ref([
         />
         <p class="mb-6 text-sm font-normal text-black">
           By
-          <RouterLink to="#"
+          <RouterLink to=""
             ><span class="text-[#FFD050]">James West</span></RouterLink
           >
           | May 23, 2022

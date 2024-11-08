@@ -35,7 +35,7 @@
             </p>
           </div></RouterLink
         >
-        <RouterLink to="#">
+        <RouterLink to="">
           <div
             class="border border-black-500 py-6 px-6 group hover:bg-[#075EFD]"
           >
@@ -98,7 +98,7 @@
             </p>
           </div>
         </RouterLink>
-        <RouterLink to="#">
+        <RouterLink to="">
           <div
             class="border border-black-500 py-6 px-6 group hover:bg-[#075EFD]"
           >
@@ -145,7 +145,7 @@
             </p>
           </div>
         </RouterLink>
-        <RouterLink to="#">
+        <RouterLink to="">
           <div
             class="border border-black-500 py-6 px-6 group hover:bg-[#075EFD]"
           >

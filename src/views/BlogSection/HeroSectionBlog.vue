@@ -12,7 +12,7 @@
         </h1>
         <p class="mb-4 font-normal">
           By
-          <RouterLink to="#"
+          <RouterLink to=""
             ><span class="text-[#075EFD]">James West</span></RouterLink
           >
           | May 23, 2022
@@ -24,7 +24,7 @@
         </p>
         <div class="flex">
           <RouterLink
-            to="#"
+            to=""
             class="inline-flex justify-center items-center py-3 px-10 text-base font-medium text-center text-white bg-[#075EFD] hover:bg-[#EDC14A] focus:ring-4 focus:ring-blue-300 dark:focus:ring-blue-900"
           >
             Read More >

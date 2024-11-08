@@ -165,10 +165,10 @@
     <div
       class="col-span-3 flex py-6 justify-center text-2xl space-x-6 font-semibold"
     >
-      <RouterLink href="" class="text-gray-500 hover:text-black"
+      <RouterLink to="" class="text-gray-500 hover:text-black"
         >< Prev</RouterLink
       >
-      <RouterLink href="" class="text-gray-500 hover:text-black"
+      <RouterLink to="" class="text-gray-500 hover:text-black"
         >Next ></RouterLink
       >
     </div>

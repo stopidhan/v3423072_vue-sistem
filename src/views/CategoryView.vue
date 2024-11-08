@@ -21,7 +21,7 @@ import Footer from "@/components/Footer.vue";
               <li class="text-black hover:text-gray-400">BLOG</li>
             </RouterLink>
             <li>></li>
-            <RouterLink to="#">
+            <RouterLink to="">
               <li class="">BUSINESS</li>
             </RouterLink>
           </ol>
@@ -139,7 +139,7 @@ import Footer from "@/components/Footer.vue";
       </div>
       <div class="col-span-1">
         <h1 class="text-4xl tracking-tighter font-semibold mb-4">Categories</h1>
-        <RouterLink to="#">
+        <RouterLink to="/category">
           <div
             class="flex flex-row border border-black-500 p-6 group hover:bg-[#075EFD] space-x-6 items-center mb-4"
           >
@@ -318,14 +318,14 @@ import Footer from "@/components/Footer.vue";
         >
           <RouterLink
             style="border-width: 3px"
-            href="#"
+            to=""
             class="w-1/2 rounded-full p-2 font-bold text-gray-500 hover:text-black hover:border-black"
           >
             <p>Business</p>
           </RouterLink>
           <RouterLink
             style="border-width: 3px"
-            href="#"
+            to=""
             class="w-1/2 rounded-full p-2 font-bold text-gray-500 hover:text-black hover:border-black"
           >
             <p>Business</p>
@@ -336,14 +336,14 @@ import Footer from "@/components/Footer.vue";
         >
           <RouterLink
             style="border-width: 3px"
-            href="#"
+            to=""
             class="w-2/6 rounded-full p-2 font-bold text-gray-500 hover:text-black hover:border-black"
           >
             <p>Screen</p>
           </RouterLink>
           <RouterLink
             style="border-width: 3px"
-            href="#"
+            to=""
             class="w-4/6 rounded-full p-2 font-bold text-gray-500 hover:text-black hover:border-black"
           >
             <p>Technology</p>
@@ -354,14 +354,14 @@ import Footer from "@/components/Footer.vue";
         >
           <RouterLink
             style="border-width: 3px"
-            href="#"
+            to=""
             class="w-4/6 rounded-full p-2 font-bold text-gray-500 hover:text-black hover:border-black"
           >
             <p>Marketing</p>
           </RouterLink>
           <RouterLink
             style="border-width: 3px"
-            href="#"
+            to=""
             class="w-2/6 rounded-full p-2 font-bold text-gray-500 hover:text-black hover:border-black"
           >
             <p>Life</p>

@@ -29,16 +29,16 @@ import LinkedinIcon from "@/components/icons/LinkedinIcon.vue";
             Content Writer @Company
           </p>
           <div class="flex flex-row space-x-4 mb-4">
-            <RouterLink to="#" id="Facebook">
+            <RouterLink to="" id="Facebook">
               <FacebookIcon />
             </RouterLink>
-            <RouterLink to="#" id="Twitter">
+            <RouterLink to="" id="Twitter">
               <TwitterIcon />
             </RouterLink>
-            <RouterLink to="#" id="Instagram">
+            <RouterLink to="" id="Instagram">
               <InstagramIcon />
             </RouterLink>
-            <RouterLink to="#" id="Linkedin">
+            <RouterLink to="" id="Linkedin">
               <LinkedinIcon />
             </RouterLink>
           </div>
@@ -61,16 +61,16 @@ import LinkedinIcon from "@/components/icons/LinkedinIcon.vue";
             Content Writer @Company
           </p>
           <div class="flex flex-row space-x-4 mb-4">
-            <RouterLink to="#" id="Facebook">
+            <RouterLink to="" id="Facebook">
               <FacebookIcon />
             </RouterLink>
-            <RouterLink to="#" id="Twitter">
+            <RouterLink to="" id="Twitter">
               <TwitterIcon />
             </RouterLink>
-            <RouterLink to="#" id="Instagram">
+            <RouterLink to="" id="Instagram">
               <InstagramIcon />
             </RouterLink>
-            <RouterLink to="#" id="Linkedin">
+            <RouterLink to="" id="Linkedin">
               <LinkedinIcon />
             </RouterLink>
           </div>
@@ -93,16 +93,16 @@ import LinkedinIcon from "@/components/icons/LinkedinIcon.vue";
             Content Writer @Company
           </p>
           <div class="flex flex-row space-x-4 mb-4">
-            <RouterLink to="#" id="Facebook">
+            <RouterLink to="" id="Facebook">
               <FacebookIcon />
             </RouterLink>
-            <RouterLink to="#" id="Twitter">
+            <RouterLink to="" id="Twitter">
               <TwitterIcon />
             </RouterLink>
-            <RouterLink to="#" id="Instagram">
+            <RouterLink to="" id="Instagram">
               <InstagramIcon />
             </RouterLink>
-            <RouterLink to="#" id="Linkedin">
+            <RouterLink to="" id="Linkedin">
               <LinkedinIcon />
             </RouterLink>
           </div>
@@ -125,16 +125,16 @@ import LinkedinIcon from "@/components/icons/LinkedinIcon.vue";
             Content Writer @Company
           </p>
           <div class="flex flex-row space-x-4 mb-4">
-            <RouterLink to="#" id="Facebook">
+            <RouterLink to="" id="Facebook">
               <FacebookIcon />
             </RouterLink>
-            <RouterLink to="#" id="Twitter">
+            <RouterLink to="" id="Twitter">
               <TwitterIcon />
             </RouterLink>
-            <RouterLink to="#" id="Instagram">
+            <RouterLink to="" id="Instagram">
               <InstagramIcon />
             </RouterLink>
-            <RouterLink to="#" id="Linkedin">
+            <RouterLink to="" id="Linkedin">
               <LinkedinIcon />
             </RouterLink>
           </div>
@@ -157,16 +157,16 @@ import LinkedinIcon from "@/components/icons/LinkedinIcon.vue";
             Content Writer @Company
           </p>
           <div class="flex flex-row space-x-4 mb-4">
-            <RouterLink to="#" id="Facebook">
+            <RouterLink to="" id="Facebook">
               <FacebookIcon />
             </RouterLink>
-            <RouterLink to="#" id="Twitter">
+            <RouterLink to="" id="Twitter">
               <TwitterIcon />
             </RouterLink>
-            <RouterLink to="#" id="Instagram">
+            <RouterLink to="" id="Instagram">
               <InstagramIcon />
             </RouterLink>
-            <RouterLink to="#" id="Linkedin">
+            <RouterLink to="" id="Linkedin">
               <LinkedinIcon />
             </RouterLink>
           </div>
@@ -189,16 +189,16 @@ import LinkedinIcon from "@/components/icons/LinkedinIcon.vue";
             Content Writer @Company
           </p>
           <div class="flex flex-row space-x-4 mb-4">
-            <RouterLink to="#" id="Facebook">
+            <RouterLink to="" id="Facebook">
               <FacebookIcon />
             </RouterLink>
-            <RouterLink to="#" id="Twitter">
+            <RouterLink to="" id="Twitter">
               <TwitterIcon />
             </RouterLink>
-            <RouterLink to="#" id="Instagram">
+            <RouterLink to="" id="Instagram">
               <InstagramIcon />
             </RouterLink>
-            <RouterLink to="#" id="Linkedin">
+            <RouterLink to="" id="Linkedin">
               <LinkedinIcon />
             </RouterLink>
           </div>
@@ -221,16 +221,16 @@ import LinkedinIcon from "@/components/icons/LinkedinIcon.vue";
             Content Writer @Company
           </p>
           <div class="flex flex-row space-x-4 mb-4">
-            <RouterLink to="#" id="Facebook">
+            <RouterLink to="" id="Facebook">
               <FacebookIcon />
             </RouterLink>
-            <RouterLink to="#" id="Twitter">
+            <RouterLink to="" id="Twitter">
               <TwitterIcon />
             </RouterLink>
-            <RouterLink to="#" id="Instagram">
+            <RouterLink to="" id="Instagram">
               <InstagramIcon />
             </RouterLink>
-            <RouterLink to="#" id="Linkedin">
+            <RouterLink to="" id="Linkedin">
               <LinkedinIcon />
             </RouterLink>
           </div>
@@ -253,16 +253,16 @@ import LinkedinIcon from "@/components/icons/LinkedinIcon.vue";
             Content Writer @Company
           </p>
           <div class="flex flex-row space-x-4 mb-4">
-            <RouterLink to="#" id="Facebook">
+            <RouterLink to="" id="Facebook">
               <FacebookIcon />
             </RouterLink>
-            <RouterLink to="#" id="Twitter">
+            <RouterLink to="" id="Twitter">
               <TwitterIcon />
             </RouterLink>
-            <RouterLink to="#" id="Instagram">
+            <RouterLink to="" id="Instagram">
               <InstagramIcon />
             </RouterLink>
-            <RouterLink to="#" id="Linkedin">
+            <RouterLink to="" id="Linkedin">
               <LinkedinIcon />
             </RouterLink>
           </div>

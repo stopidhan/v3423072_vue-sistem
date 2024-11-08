@@ -32,10 +32,10 @@ import LinkedinIcon from "@/components/icons/LinkedinIcon.vue";
         </p>
 
         <div class="flex flex-row space-x-4 mb-4">
-          <router-link to="#"><FacebookIcon /></router-link>
-          <router-link to="#"><TwitterIcon /></router-link>
-          <router-link to="#"><InstagramIcon /></router-link>
-          <router-link to="#"><LinkedinIcon /></router-link>
+          <router-link to=""><FacebookIcon /></router-link>
+          <router-link to=""><TwitterIcon /></router-link>
+          <router-link to=""><InstagramIcon /></router-link>
+          <router-link to=""><LinkedinIcon /></router-link>
         </div>
       </div>
       <svg

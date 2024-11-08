@@ -146,7 +146,7 @@ import JoinSection from "@/components/JoinSection.vue";
         />
         <p class="mb-4 text-sm text-black">
           By
-          <RouterLink to="#"
+          <RouterLink to=""
             ><span class="text-[#FFD050]">John Doe</span></RouterLink
           >
           | Aug 21, 2021
@@ -168,7 +168,7 @@ import JoinSection from "@/components/JoinSection.vue";
         />
         <p class="mb-4 text-sm text-black">
           By
-          <RouterLink to="#"
+          <RouterLink to=""
             ><span class="text-[#FFD050]">John Doe</span></RouterLink
           >
           | Aug 21, 2021
@@ -190,7 +190,7 @@ import JoinSection from "@/components/JoinSection.vue";
         />
         <p class="mb-4 text-sm text-black">
           By
-          <RouterLink to="#"
+          <RouterLink to=""
             ><span class="text-[#FFD050]">John Doe</span></RouterLink
           >
           | Aug 21, 2021
