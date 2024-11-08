@@ -167,8 +167,11 @@ import JoinSection from "@/components/JoinSection.vue";
           alt=""
         />
         <p class="mb-4 text-sm text-black">
-          By <a href="#"><span class="text-[#FFD050]">John Doe</span></a> | Aug
-          21, 2021
+          By
+          <RouterLink to="#"
+            ><span class="text-[#FFD050]">John Doe</span></RouterLink
+          >
+          | Aug 21, 2021
         </p>
         <h2 style="font-size: 28px" class="font-bold mb-4">
           A UX Case Study Creating a Studious Environment for Students:
